@@ -1,0 +1,2 @@
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\Debug\game.exe
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\Debug\game.pdb

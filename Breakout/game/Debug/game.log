@@ -1,0 +1,59 @@
+﻿  main.cpp
+  MyGame.cpp
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(65,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(65,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(70,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(74,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(78,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(82,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(140,45): warning C4101: 'p_state': unreferenced local variable
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(554,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(554,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(560,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(560,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(566,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(566,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(572,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(572,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(578,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(578,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(584,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(584,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(589,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(589,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(594,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(594,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(659,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(659,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(665,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(665,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(671,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(671,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(677,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(677,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(683,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(683,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(689,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(689,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(694,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(694,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(699,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(699,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(764,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(772,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(773,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(892,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(918,70): warning C4244: 'argument': conversion from 'double' to 'Sint32', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(751,4): warning C4101: 'p_state': unreferenced local variable
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(951,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(952,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1019,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1020,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1042,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1042,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1050,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1050,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(1081,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\MyGame.cpp(937,4): warning C4101: 'p_state': unreferenced local variable
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> C:\Users\charl\Documents\GitHub Projects\Breakout\Breakout-Project\Breakout\game\Debug\game.exe

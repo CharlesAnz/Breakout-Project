@@ -1,0 +1,13 @@
+﻿  Game.cpp
+  GameApp.cpp
+  Graphics.cpp
+  SDL_collide.cpp
+  Sound.cpp
+  Sprite.cpp
+  SpriteOval.cpp
+  SpriteRect.cpp
+  SpriteText.cpp
+  stdafx.cpp
+Game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\charl\Documents\Class Files\Breakout\gfc\gfc\lib\gfcd.lib and object C:\Users\charl\Documents\Class Files\Breakout\gfc\gfc\lib\gfcd.exp
+  gfc.vcxproj -> C:\Users\charl\Documents\Class Files\Breakout\gfc\gfc\lib\gfcd.dll
